@@ -315,7 +315,7 @@ const speechArray = {
   'J7GY1Xg6X20': {
     "title": "Ellen Hovde & Co. on documentaries",
     "id": "J7GY1Xg6X20",
-    "url": "https://www.youtube.com/watch?v=J7GY1Xg6X20"
+    "url": "https://www.youtube.com/watch?v=T74EBhm5IFU"
   },
   'iqm-XEqpayc': {
     "title": "Sheryl Sandberg Berkley Speech",
